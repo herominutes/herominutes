@@ -5,9 +5,13 @@
 AI Product Builder focused on building AI-native products, agent systems, and product strategy tools.
 
 
-## 🧠 AI Builder Framework
+## 🧠 AI System Principles
 
-The systems I design typically follow a structured AI product architecture.
+• Retrieval before generation  
+• Guardrails before output  
+• Privacy by design  
+• Evaluation-driven iteration  
+• Memory-enabled personalization
 
 ## 🧠 AI Builder System Architecture
 
@@ -53,16 +57,6 @@ F --> Q[Evaluation + Monitoring]
 
 Q --> C
 ```
-
----
-
-AI System Principles
-
-• Retrieval before generation  
-• Guardrails before output  
-• Privacy by design  
-• Evaluation-driven iteration  
-• Memory-enabled personalization
 
 ---
 
