@@ -93,8 +93,3 @@ LinkedIn: www.linkedin.com/in/jambuilds
 • Product strategy automation  
 • AI-powered health and recovery tools
 
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herominutes&layout=compact&theme=tokyonight)
