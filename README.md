@@ -36,9 +36,9 @@ GitHub
 
 ## 📂 Current Projects
 
-• **AI Product Management OS ⭐  
-• **Multi-Agent Product Strategy Simulator ⭐  
-• **Herominutes – AI athlete injury recovery platform ⭐  
+• AI Product Management OS ⭐  
+• Multi-Agent Product Strategy Simulator ⭐  
+• Herominutes – AI athlete injury recovery platform ⭐  
 
 
 ---
