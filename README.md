@@ -34,6 +34,15 @@ Replit
 VS Code  
 GitHub  
 
+## 🛠️ Tools & Technologies
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Multi--Agent-blue?style=for-the-badge)
+
 ---
 
 ## ⭐ Current Projects
