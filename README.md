@@ -6,31 +6,6 @@ AI Product Builder focused on building AI-native products, agent systems, and pr
 
 ---
 
-```md
-## 🧠 AI Builder Framework
-
-User Problem  
-↓  
-Product Interface  
-↓  
-AI Orchestration  
-↓  
-Agent Systems / Knowledge Retrieval / Workflow Automation  
-↓  
-LLM Generation  
-↓  
-Structured Output  
-↓  
-Evaluation  
-↓  
-Learning Loop  
-↓  
-Memory System  
-↓  
-AI Orchestration
-
----
-
 
 ## 🔨 Core AI Builder Principles
 
