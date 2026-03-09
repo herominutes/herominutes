@@ -140,6 +140,12 @@ Q --> C
 
 ## 🧱 AI Product Stack
 
+AI-powered products are built as layered systems that connect user experiences, product logic, AI orchestration, knowledge retrieval, and model generation.
+
+This stack illustrates the key layers involved in delivering AI-native applications—from the user interface and product workflows, to the AI infrastructure that powers reasoning, retrieval, and system intelligence.
+
+Understanding these layers helps ensure AI products are scalable, reliable, and designed to evolve as models and capabilities improve.
+
 ```mermaid
 flowchart TB
 
