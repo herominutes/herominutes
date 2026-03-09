@@ -1,5 +1,7 @@
 # Hi, I'm Jam 👋
 
+## 🚀 AI Product Builder
+
 AI Product Builder focused on building AI-native products, agent systems, and product strategy tools.
 
 ---
