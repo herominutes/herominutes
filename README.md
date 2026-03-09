@@ -60,6 +60,54 @@ Q --> C
 
 ---
 
+## 🧱 AI Product Stack
+
+```mermaid
+flowchart TB
+
+A[User Experience Layer<br/>Web App / Mobile / Chat Interface]
+
+B[Product Logic Layer<br/>Workflows / User States / Business Rules / Personalization]
+
+C[AI Orchestration Layer<br/>Agent Routing / Prompting / Tool Use / Model Selection]
+
+D[Knowledge + Memory Layer<br/>RAG / Document Retrieval / User Memory / Context Storage]
+
+E[Generation Layer<br/>LLMs / Structured Output / Reasoning Depth]
+
+F[Trust Layer<br/>Privacy / Security / Safety / Ethical Guardrails]
+
+G[Evaluation Layer<br/>Monitoring / Feedback / Quality Review / Iteration]
+
+A --> B
+B --> C
+C --> D
+C --> E
+D --> E
+E --> G
+F --> C
+F --> D
+F --> E
+G --> B
+```
+
+---
+
+### How I Think About AI Products
+
+I design AI systems as layered products rather than isolated prompts.
+
+My approach typically includes:
+
+• user-centered product interfaces  
+• workflow and decision logic  
+• AI orchestration and routing  
+• retrieval and memory systems  
+• privacy, security, and safety guardrails  
+• evaluation loops for continuous improvement
+
+---
+
 ## 🚀 What I Build
 
 • AI product operating systems  
