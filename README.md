@@ -36,12 +36,23 @@ GitHub
 
 ## 📂 Current Projects
 
-• AI Product Management OS  
-• Multi-Agent Product Strategy Simulator  
-• HeroMinutes – AI athlete recovery platform  
+• AI Product Management OS ⭐  
+• Multi-Agent Product Strategy Simulator ⭐  
+• Herominutes – AI athlete injury recovery platform ⭐  
+• Barometric Headache Tracker
+• Burnout Support Chatbot for Medical Residents
+• Executive Coach LLM
+• Stock Market Analysis
+• HeadPeace Journal
+• Soul Food Tinder
+• BHAG Dashboard
+• Bill of Materials ERP System
+• MindStudio Workflows
+• Auto Marketing Story Images for Social Media
+
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: (add your link here)
+LinkedIn: www.linkedin.com/in/jambuilds
