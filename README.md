@@ -8,6 +8,21 @@ My work focuses on combining **product strategy, AI system design, and modern LL
 
 ---
 
+## 🧱 AI Builder Stack
+
+🧠 **AI Systems**  
+Multi-agent architectures • RAG systems • LLM workflows • AI orchestration
+
+🧭 **Product Leadership**  
+Product strategy • Roadmaps • PRDs • User research • Product analytics
+
+⚙️ **AI Infrastructure**  
+Vector search • knowledge retrieval • memory systems • evaluation pipelines
+
+🔒 **Responsible AI**  
+Privacy by design • security • guardrails • ethical AI systems
+
+---
 
 ## 🔨 Core AI Builder Principles
 
@@ -17,24 +32,6 @@ My work focuses on combining **product strategy, AI system design, and modern LL
 • Build evaluation and feedback loops into the product  
 • Use orchestration to combine agents, tools, and documents effectively  
 • Prefer structured workflows over one-shot generation
-
-## 🧠 AI Builder Framework
-
-User Problem  
-↓  
-Product Interface  
-↓  
-AI Orchestration  
-↓  
-Agents / Retrieval / Tools  
-↓  
-LLM Generation  
-↓  
-Structured Output  
-↓  
-Evaluation + Learning  
-↓  
-Memory
 
 ---
 
@@ -150,21 +147,6 @@ Product Strategy Automation
 AI Product Management  
 
 ---
-
-## 🧱 AI Builder Stack
-
-🧠 **AI Systems**  
-Multi-agent architectures • RAG systems • LLM workflows • AI orchestration
-
-🧭 **Product Leadership**  
-Product strategy • Roadmaps • PRDs • User research • Product analytics
-
-⚙️ **AI Infrastructure**  
-Vector search • knowledge retrieval • memory systems • evaluation pipelines
-
-🔒 **Responsible AI**  
-Privacy by design • security • guardrails • ethical AI systems
-
 
 ## ⚙️ Tech Stack
 
