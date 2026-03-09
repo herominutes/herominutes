@@ -34,15 +34,17 @@ GitHub
 
 ---
 
-## 📂 Current Projects
+## ⭐ Current Projects
 
-• AI Product Management OS ⭐  
-• Multi-Agent Product Strategy Simulator ⭐  
-• Herominutes – AI athlete injury recovery platform ⭐  
+• **AI Product Management OS** — AI system for automating PRDs, prioritization, roadmaps, and product insights.
+
+• **Multi-Agent Product Strategy Simulator** — agent workflow that simulates product roles across strategy, analytics, and planning.
+
+• **HeroMinutes** — AI-powered athlete recovery and injury support platform.
 
 
 ---
-## 🧪 Additional Projects
+
 ## 🧪 Additional Projects
 
 • **Barometric Headache Tracker** — tracks pressure changes and potential headache triggers.
