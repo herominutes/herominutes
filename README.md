@@ -87,6 +87,12 @@ E3 --> E4[Optimization]
 
 ## 🧠 AI Builder System Architecture
 
+Modern AI products require more than a single model call. Effective systems combine product interfaces, orchestration layers, knowledge retrieval, memory, and evaluation pipelines to deliver reliable and scalable AI experiences.
+
+This architecture illustrates how I design AI systems—from capturing user intent, to orchestrating agents and workflows, to generating outputs that are evaluated and improved over time.
+
+The goal is to build AI-native products that are context-aware, safe, and continuously learning.
+
 ```mermaid
 flowchart TD
 
