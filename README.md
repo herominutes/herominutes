@@ -18,6 +18,24 @@ My work focuses on combining **product strategy, AI system design, and modern LL
 • Use orchestration to combine agents, tools, and documents effectively  
 • Prefer structured workflows over one-shot generation
 
+## 🧠 AI Builder Framework
+
+User Problem  
+↓  
+Product Interface  
+↓  
+AI Orchestration  
+↓  
+Agents / Retrieval / Tools  
+↓  
+LLM Generation  
+↓  
+Structured Output  
+↓  
+Evaluation + Learning  
+↓  
+Memory
+
 ---
 
 ## 🧠 AI Builder System Architecture
