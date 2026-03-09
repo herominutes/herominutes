@@ -293,16 +293,125 @@ LinkedIn: www.linkedin.com/in/jambuilds
 
 ---
 
-## 🧰 AI Product Resources
+## 🧰 AI Product Builder Toolkit
 
-Practical frameworks and templates I use when building AI-native products.
+Frameworks, templates, and operating systems I use to design, build, and scale AI-native products.
 
-| Resource | Description |
-|--------|-------------|
-| 📄 PRD Template | AI-native Product Requirements Document |
-| 🗺 Product Roadmap | Strategy → roadmap → execution planning |
-| 🧠 Customer Journey | User discovery and behavioral mapping |
-| 🔍 RAG Framework | Retrieval-augmented generation architecture |
-| 📊 AI Evaluation | LLM evaluation and quality measurement |
-| 🤖 Multi-Agent Systems | Agent orchestration patterns |
+These resources support product discovery, AI system design, evaluation, and product execution.
+
+---
+
+### 🧭 Product Strategy & Vision
+
+Frameworks used to define product direction and align teams around outcomes.
+
+• Product Strategy Framework  
+• Product Vision & Narrative Template  
+• Product Opportunity Assessment  
+• Market Landscape Analysis  
+• Competitive Intelligence Framework  
+• Product Positioning Canvas  
+• North Star Metric Framework  
+
+---
+
+### 🔎 Product Discovery & Human-Centered Design
+
+Tools used to deeply understand users, problems, and behaviors.
+
+• Human-Centered Design Framework  
+• Design Thinking Process  
+• Customer Discovery Interview Guide  
+• User Persona Template  
+• Customer Journey Mapping Framework  
+• Jobs-To-Be-Done Template  
+• Problem Statement Framework  
+• Opportunity Solution Tree  
+
+---
+
+### 🧠 AI Product Architecture & Systems
+
+Frameworks used to design AI-native product systems.
+
+• Multi-Agent Architecture Framework  
+• RAG (Retrieval-Augmented Generation) System Design  
+• AI Orchestration Patterns  
+• AI Memory System Design  
+• AI Guardrails & Safety Architecture  
+• AI Prompt Engineering Framework  
+• AI System Observability Model  
+
+---
+
+### 📄 Product Documentation
+
+Structured documentation systems for building AI products.
+
+• AI Product Requirements Document (AI-PRD)  
+• Product Spec Template  
+• Technical Design Document (TDD)  
+• System Architecture Documentation  
+• Product Decision Log  
+
+---
+
+### 🗺 Product Planning & Execution
+
+Frameworks for roadmap planning and disciplined product execution.
+
+• Product Roadmap Template  
+• Outcome-Based Roadmap Framework  
+• Feature Prioritization (RICE / ICE / Kano)  
+• Product Backlog Structure  
+• Experimentation Framework  
+• Product Launch Checklist  
+
+---
+
+### 📊 AI Evaluation & Quality
+
+Systems for measuring reliability and performance of AI products.
+
+• LLM Evaluation Framework  
+• AI Output Quality Scorecards  
+• Prompt Evaluation Testing  
+• AI Regression Testing Systems  
+• AI Observability & Monitoring  
+
+---
+
+### 🤖 AI Product Development
+
+Operational frameworks for building AI-native products.
+
+• AI Product Development Lifecycle  
+• Agent Workflow Design  
+• AI Tool Integration Framework  
+• Human-in-the-Loop Systems  
+• Automation Architecture  
+
+---
+
+### 📈 Product Analytics & Growth
+
+Frameworks used to measure product success and guide iteration.
+
+• Product KPI Framework  
+• North Star Metrics  
+• AARRR Growth Model  
+• User Retention Analysis  
+• Experimentation & A/B Testing Framework  
+
+---
+
+### 🧩 Consulting & Product Advisory
+
+Frameworks used when advising companies building AI-native products.
+
+• AI Product Strategy Playbook  
+• AI Capability Maturity Model  
+• AI Product Operating Model  
+• AI Transformation Roadmap  
+• Product Organization Design
 
