@@ -43,16 +43,25 @@ GitHub
 
 ---
 ## 🧪 Additional Projects
-• Barometric Headache Tracker
-• Burnout Support Chatbot for Medical Residents
-• Executive Coach LLM
-• Stock Market Analysis
-• HeadPeace Journal
-• Soul Food Tinder
-• BHAG Dashboard
-• Bill of Materials ERP System
-• MindStudio Workflows
-• Auto Marketing Story Images for Social Media
+## 🧪 Additional Projects
+
+• **Barometric Headache Tracker** — tracks pressure changes and potential headache triggers.
+
+• **Burnout Support Chatbot for Medical Residents** — AI assistant supporting stress and burnout management.
+
+• **Executive Coach LLM** — conversational AI designed to simulate executive coaching conversations.
+
+• **Stock Analysis Tool** — AI-assisted insights and summaries for equity research.
+
+• **HeadPeace Journal** — reflective journaling tool for mental clarity and emotional processing.
+
+• **Soul Food Tinder** — discovery app for culturally meaningful food experiences.
+
+• **BHAG Dashboard** — dashboard for tracking long-term ambitious goals.
+
+• **Bill of Materials ERP System** — system for tracking materials and manufacturing components.
+
+• **MindStudio Workflow Builder** — automated workflows for generating images for social media.
 
 
 ---
