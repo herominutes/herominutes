@@ -42,8 +42,6 @@ G --> C
 
 ## 🧩 AI Builder Capability Map
 
-## 🧩 AI Builder Capability Map
-
 ```mermaid
 flowchart TD
 
