@@ -8,6 +8,7 @@ AI Product Builder focused on building AI-native products, agent systems, and pr
 
 ## 🧠 AI Builder Framework
 
+```mermaid
 flowchart TD
 
 A[User Problem] --> B[Product Interface]
