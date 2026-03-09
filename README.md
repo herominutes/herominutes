@@ -92,3 +92,11 @@ LinkedIn: www.linkedin.com/in/jambuilds
 • RAG and memory systems  
 • Product strategy automation  
 • AI-powered health and recovery tools
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herominutes&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herominutes&layout=compact&theme=tokyonight)
