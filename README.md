@@ -24,17 +24,6 @@ Privacy by design • security • guardrails • ethical AI systems
 
 ---
 
-## 🔨 Core AI Builder Principles
-
-• Design for the user problem first, not the model first  
-• Use retrieval and memory to ground outputs in context  
-• Treat privacy, security, and safety as system requirements  
-• Build evaluation and feedback loops into the product  
-• Use orchestration to combine agents, tools, and documents effectively  
-• Prefer structured workflows over one-shot generation
-
----
-
 ## 🔄 AI Product Lifecycle
 
 ```mermaid
@@ -47,6 +36,40 @@ D --> E[📏 AI Evaluation]
 E --> F[🏭 Production]
 F --> G[📈 Optimization]
 G --> C
+```
+
+---
+
+## 🧩 AI Builder Capability Map
+
+```mermaid
+flowchart TD
+
+A[🧠 AI Builder]
+
+A --> B[🧭 Product Strategy]
+A --> C[🏗 AI System Design]
+A --> D[⚙️ AI Product Development]
+A --> E[📊 Evaluation & Improvement]
+
+B --> B1[User Problems]
+B --> B2[Personas & Journey]
+B --> B3[PRDs & Roadmaps]
+
+C --> C1[Agent Systems]
+C --> C2[RAG & Retrieval]
+C --> C3[Memory Systems]
+C --> C4[Safety & Guardrails]
+
+D --> D1[LLM Workflows]
+D --> D2[Product Interfaces]
+D --> D3[Automation Flows]
+D --> D4[Knowledge Tools]
+
+E --> E1[Feedback Loops]
+E --> E2[Monitoring]
+E --> E3[Iteration]
+E --> E4[Optimization]
 ```
 
 ---
@@ -161,6 +184,17 @@ AI Agents
 RAG Systems  
 Product Strategy Automation  
 AI Product Management  
+
+---
+
+## 🔨 Core AI Builder Principles
+
+• Design for the user problem first, not the model first  
+• Use retrieval and memory to ground outputs in context  
+• Treat privacy, security, and safety as system requirements  
+• Build evaluation and feedback loops into the product  
+• Use orchestration to combine agents, tools, and documents effectively  
+• Prefer structured workflows over one-shot generation
 
 ---
 
