@@ -5,18 +5,32 @@
 AI Product Builder focused on building AI-native products, agent systems, and product strategy tools.
 
 
-AI System Types
-  • Multi-agent AI orchestration systems
-  • AI-powered product operating systems
-  • Retrieval-Augmented Generation (RAG) applications
-  • AI-assisted product discovery platforms
-  • LLM-powered workflow tools
+## 🧠 AI Builder Framework
 
-Special Areas
-  • AI product strategy tools
-  • AI-powered mobility & recovery technology
-  • Human-in-the-loop AI systems
-  • Agent memory systems and knowledge retrieval
+The systems I design typically follow a structured AI product architecture.
+
+```mermaid
+flowchart TD
+
+A[User Problem] --> B[Product Interface]
+
+B --> C[AI Orchestration Layer]
+
+C --> D1[Agent Systems]
+C --> D2[RAG Knowledge Systems]
+C --> D3[Workflow Automation]
+
+D1 --> E[LLM Generation Engine]
+D2 --> E
+D3 --> E
+
+E --> F[Decision + Insight Layer]
+
+F --> G[User Output]
+
+G --> H[Learning Loop]
+H --> C
+```
 
 ---
 
