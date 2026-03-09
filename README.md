@@ -76,5 +76,10 @@ LinkedIn: www.linkedin.com/in/jambuilds
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herominutes&show_icons=true)
+## 📌 Focus Areas
+
+• AI product systems  
+• Multi-agent workflows  
+• RAG and memory systems  
+• Product strategy automation  
+• AI-powered health and recovery tools
