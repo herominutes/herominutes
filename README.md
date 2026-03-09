@@ -291,3 +291,18 @@ LinkedIn: www.linkedin.com/in/jambuilds
 • Product strategy automation  
 • AI-powered health and recovery tools
 
+---
+
+## 🧰 AI Product Resources
+
+Practical frameworks and templates I use when building AI-native products.
+
+| Resource | Description |
+|--------|-------------|
+| 📄 PRD Template | AI-native Product Requirements Document |
+| 🗺 Product Roadmap | Strategy → roadmap → execution planning |
+| 🧠 Customer Journey | User discovery and behavioral mapping |
+| 🔍 RAG Framework | Retrieval-augmented generation architecture |
+| 📊 AI Evaluation | LLM evaluation and quality measurement |
+| 🤖 Multi-Agent Systems | Agent orchestration patterns |
+
