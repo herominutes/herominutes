@@ -1,4 +1,4 @@
-# Hi, I'm Jam 👋
+# Hi, I'm Jamil 👋
 
 ## 🚀 AI Product Builder
 
