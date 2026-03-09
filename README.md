@@ -93,3 +93,9 @@ LinkedIn: www.linkedin.com/in/jambuilds
 • Product strategy automation  
 • AI-powered health and recovery tools
 
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=herominutes&theme=tokyonight)
+
