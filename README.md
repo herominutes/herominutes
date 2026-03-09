@@ -8,24 +8,23 @@ AI Product Builder focused on building AI-native products, agent systems, and pr
 
 ## 🧠 AI Builder Framework
 
-mermaid
-
+```mermaid
 flowchart TD
-A(User Problem) --> B(Product Interface)
-B --> C(AI Orchestration)
-C --> D(Agent Systems)
-C --> E(Knowledge Retrieval)
-C --> F(Workflow Automation)
-E --> G(Document Knowledge Base)
-G --> H(Vector Search)
-D --> I(LLM Generation)
-E --> I
-F --> I
-I --> J(Structured Output)
-J --> K(Evaluation)
-K --> L(Learning Loop)
-L --> M(Memory System)
-M --> C
+    A(User Problem) --> B(Product Interface)
+    B --> C(AI Orchestration)
+    C --> D(Agent Systems)
+    C --> E(Knowledge Retrieval)
+    C --> F(Workflow Automation)
+    E --> G(Document Knowledge Base)
+    G --> H(Vector Search)
+    D --> I(LLM Generation)
+    E --> I
+    F --> I
+    I --> J(Structured Output)
+    J --> K(Evaluation)
+    K --> L(Learning Loop)
+    L --> M(Memory System)
+    M --> C
 
 ---
 
