@@ -42,6 +42,12 @@ G --> C
 
 ## 🧩 AI Builder Capability Map
 
+This capability map represents the core disciplines involved in designing and delivering AI-native products.
+
+As an AI builder and product leader, I focus on combining product strategy, AI system architecture, and modern LLM workflows to build intelligent applications that solve real user problems.
+
+The map highlights the key capability areas required to design scalable AI systems—from identifying user problems and defining product strategy, to building AI architectures, orchestrating workflows, and continuously improving systems through evaluation and feedback.
+
 ```mermaid
 flowchart TD
 
