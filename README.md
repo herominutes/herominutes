@@ -48,26 +48,29 @@ flowchart TD
 A[🧠 AI Builder]
 
 A --> B[🧭 Product Strategy]
-A --> C[🏗 AI System Design]
-A --> D[⚙️ AI Product Development]
-A --> E[📊 Evaluation & Improvement]
 
 B --> B1[User Problems]
 B --> B2[Personas & Journey]
 B --> B3[PRDs & Roadmaps]
+
+A --> C[🏗 AI System Design]
 
 C --> C1[Agent Systems]
 C --> C2[RAG & Retrieval]
 C --> C3[Memory Systems]
 C --> C4[Safety & Guardrails]
 
+A --> D[⚙️ AI Product Development]
+
 D --> D1[LLM Workflows]
 D --> D2[Product Interfaces]
-D --> D3[Automation Flows]
+D --> D3[Automation Systems]
 D --> D4[Knowledge Tools]
 
-E --> E1[Feedback Loops]
-E --> E2[Monitoring]
+A --> E[📊 Evaluation & Improvement]
+
+E --> E1[Monitoring]
+E --> E2[Feedback Loops]
 E --> E3[Iteration]
 E --> E4[Optimization]
 ```
