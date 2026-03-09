@@ -9,6 +9,8 @@ AI Product Builder focused on building AI-native products, agent systems, and pr
 
 The systems I design typically follow a structured AI product architecture.
 
+## 🧠 AI Builder System Architecture
+
 ```mermaid
 flowchart TD
 
@@ -17,8 +19,14 @@ A[User Problem] --> B[Product Interface]
 B --> C[AI Orchestration Layer]
 
 C --> D1[Agent Systems]
-C --> D2[RAG Knowledge Systems]
+C --> D2[Knowledge Retrieval Layer]
 C --> D3[Workflow Automation]
+
+D2 --> K[Document Store / Knowledge Base]
+
+K --> L[Embedding + Vector Index]
+
+L --> D2
 
 D1 --> E[LLM Generation Engine]
 D2 --> E
@@ -29,8 +37,32 @@ E --> F[Decision + Insight Layer]
 F --> G[User Output]
 
 G --> H[Learning Loop]
-H --> C
+
+H --> M[Memory System]
+
+M --> C
+
+%% Safety Layer
+E --> S[Safety & Guardrails]
+
+%% Privacy Layer
+B --> P[Privacy + Security Controls]
+
+%% Evaluation
+F --> Q[Evaluation + Monitoring]
+
+Q --> C
 ```
+
+---
+
+AI System Principles
+
+• Retrieval before generation  
+• Guardrails before output  
+• Privacy by design  
+• Evaluation-driven iteration  
+• Memory-enabled personalization
 
 ---
 
