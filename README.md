@@ -1,8 +1,10 @@
-# Hi, I'm Jamil 👋
+# 👋 Hi, I'm Jamil
 
-## 🚀 AI Product Builder
+🚀 **AI Builder | Senior Product Manager**
 
-AI Product Builder focused on building AI-native products, agent systems, and product strategy tools.
+Designing AI-native products, multi-agent systems, and intelligent product workflows.
+
+My work focuses on combining **product strategy, AI system design, and modern LLM architectures** to build scalable AI-powered applications.
 
 ---
 
@@ -131,6 +133,21 @@ AI Product Management
 
 ---
 
+## 🧱 AI Builder Stack
+
+🧠 **AI Systems**  
+Multi-agent architectures • RAG systems • LLM workflows • AI orchestration
+
+🧭 **Product Leadership**  
+Product strategy • Roadmaps • PRDs • User research • Product analytics
+
+⚙️ **AI Infrastructure**  
+Vector search • knowledge retrieval • memory systems • evaluation pipelines
+
+🔒 **Responsible AI**  
+Privacy by design • security • guardrails • ethical AI systems
+
+
 ## ⚙️ Tech Stack
 
 OpenAI  
@@ -140,6 +157,7 @@ Ollama
 Replit  
 VS Code  
 GitHub  
+
 
 ## 🛠️ Tools & Technologies
 
