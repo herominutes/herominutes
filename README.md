@@ -77,5 +77,4 @@ LinkedIn: www.linkedin.com/in/jambuilds
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herominutes&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herominutes&show_icons=true)
