@@ -42,37 +42,35 @@ G --> C
 
 ## 🧩 AI Builder Capability Map
 
+## 🧩 AI Builder Capability Map
+
 ```mermaid
 flowchart TD
 
 A[🧠 AI Builder]
 
 A --> B[🧭 Product Strategy]
-
 B --> B1[User Problems]
-B --> B2[Personas & Journey]
-B --> B3[PRDs & Roadmaps]
+B1 --> B2[Personas & Journey]
+B2 --> B3[PRDs & Roadmaps]
 
-A --> C[🏗 AI System Design]
-
+B3 --> C[🏗 AI System Design]
 C --> C1[Agent Systems]
-C --> C2[RAG & Retrieval]
-C --> C3[Memory Systems]
-C --> C4[Safety & Guardrails]
+C1 --> C2[RAG & Retrieval]
+C2 --> C3[Memory Systems]
+C3 --> C4[Safety & Guardrails]
 
-A --> D[⚙️ AI Product Development]
-
+C4 --> D[⚙️ AI Product Development]
 D --> D1[LLM Workflows]
-D --> D2[Product Interfaces]
-D --> D3[Automation Systems]
-D --> D4[Knowledge Tools]
+D1 --> D2[Product Interfaces]
+D2 --> D3[Automation Systems]
+D3 --> D4[Knowledge Tools]
 
-A --> E[📊 Evaluation & Improvement]
-
+D4 --> E[📊 Evaluation & Improvement]
 E --> E1[Monitoring]
-E --> E2[Feedback Loops]
-E --> E3[Iteration]
-E --> E4[Optimization]
+E1 --> E2[Feedback Loops]
+E2 --> E3[Iteration]
+E3 --> E4[Optimization]
 ```
 
 ---
