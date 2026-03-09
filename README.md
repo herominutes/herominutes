@@ -177,7 +177,7 @@ G --> B
 
 ---
 
-### How I Think About AI Products
+### 🧠 How I Think About AI Products
 
 I design AI systems as layered products rather than isolated prompts.
 
