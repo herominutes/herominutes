@@ -214,50 +214,34 @@ AI Product Management
 
 Principles that guide how I design and build AI-native products.
 
----
-
 **User problems before model choice**
 
 Start with the real user workflow and problem.  
 AI is a capability — not the product.
 
----
-
 **Systems over features**
 
 AI products are systems composed of models, data, orchestration, evaluation, and feedback loops.
-
----
 
 **Retrieval before generation**
 
 Whenever possible, ground AI outputs in verified knowledge sources using retrieval.
 
----
-
 **Evaluation is a product feature**
 
 AI systems must include evaluation frameworks, monitoring, and quality measurement from day one.
-
----
 
 **Guardrails are part of architecture**
 
 Safety, privacy, and responsible AI use are core system design decisions.
 
----
-
 **Human-in-the-loop improves reliability**
 
 Hybrid systems combining AI and human judgment often outperform fully automated systems.
 
----
-
 **Agents require orchestration**
 
 Multi-agent systems need clear responsibilities, coordination patterns, and shared context.
-
----
 
 **Product strategy drives AI design**
 
