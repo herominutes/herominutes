@@ -321,7 +321,7 @@ LinkedIn: www.linkedin.com/in/jambuilds
 
 ---
 
-## 🧰 AI Product Builder Toolkit
+## 🧰 AI Product Builder Playbook
 
 Frameworks, templates, and operating systems I use to design, build, and scale AI-native products.
 
