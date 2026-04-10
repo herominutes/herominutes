@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jamil
 
-🚀 **AI Builder | Senior Product Manager | CFO **
+🚀 **AI Builder | Senior Product Manager | CFO**
 
 Designing AI-native products, multi-agent systems, and intelligent product workflows.
 
