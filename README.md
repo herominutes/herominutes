@@ -27,6 +27,8 @@
 
 ## Featured work
 
+These are my own build projects; my work history is on [LinkedIn](https://www.linkedin.com/in/jambuilds).
+
 <img src="assets/portfolio-at-a-glance.svg" width="100%" alt="Seven projects as cards with an honest status for each: Hero EQ prototype, GoGoIdea published, SpecAI web app, Herominutes MVP with private code, CurriculumOS prototype with partly demo data, Sage Intacct MCP server, and the AI Product Playbook.">
 
 ### Hero EQ: a private AI copilot for product leaders
@@ -87,121 +89,10 @@ F --> G[📈 Optimization]
 G --> C
 ```
 
-<details>
-<summary><b>AI system architecture I design toward</b></summary>
-
-```mermaid
-flowchart TD
-
-A[User Problem] --> B[Product Interface]
-
-B --> C[AI Orchestration Layer]
-
-C --> D1[Agent Systems]
-C --> D2[Knowledge Retrieval Layer]
-C --> D3[Workflow Automation]
-
-D2 --> K[Document Store / Knowledge Base]
-
-K --> L[Embedding + Vector Index]
-
-L --> D2
-
-D1 --> E[LLM Generation Engine]
-D2 --> E
-D3 --> E
-
-E --> F[Decision + Insight Layer]
-
-F --> G[User Output]
-
-G --> H[Learning Loop]
-
-H --> M[Memory System]
-
-M --> C
-
-%% Safety Layer
-E --> S[Safety & Guardrails]
-
-%% Privacy Layer
-B --> P[Privacy + Security Controls]
-
-%% Evaluation
-F --> Q[Evaluation + Monitoring]
-
-Q --> C
-```
-
-</details>
-
-<details>
-<summary><b>The layered AI product stack</b></summary>
-
-```mermaid
-flowchart TB
-
-A[User Experience Layer<br/>Web App / Mobile / Chat Interface]
-
-B[Product Logic Layer<br/>Workflows / User States / Business Rules / Personalization]
-
-C[AI Orchestration Layer<br/>Agent Routing / Prompting / Tool Use / Model Selection]
-
-D[Knowledge + Memory Layer<br/>RAG / Document Retrieval / User Memory / Context Storage]
-
-E[Generation Layer<br/>LLMs / Structured Output / Reasoning Depth]
-
-F[Trust Layer<br/>Privacy / Security / Safety / Ethical Guardrails]
-
-G[Evaluation Layer<br/>Monitoring / Feedback / Quality Review / Iteration]
-
-A --> B
-B --> C
-C --> D
-C --> E
-D --> E
-E --> G
-F --> C
-F --> D
-F --> E
-G --> B
-```
-
-</details>
-
-<details>
-<summary><b>Capability map</b></summary>
-
-```mermaid
-flowchart TD
-
-A[🧠 AI Builder]
-
-A --> B[🧭 Product Strategy]
-B --> B1[User Problems]
-B1 --> B2[Personas & Journey]
-B2 --> B3[PRDs & Roadmaps]
-
-B3 --> C[🏗 AI System Design]
-C --> C1[Agent Systems]
-C1 --> C2[RAG & Retrieval]
-C2 --> C3[Memory Systems]
-C3 --> C4[Safety & Guardrails]
-
-C4 --> D[⚙️ AI Product Development]
-D --> D1[LLM Workflows]
-D1 --> D2[Product Interfaces]
-D2 --> D3[Automation Systems]
-D3 --> D4[Knowledge Tools]
-
-D4 --> E[📊 Evaluation & Improvement]
-E --> E1[Monitoring]
-E1 --> E2[Feedback Loops]
-E2 --> E3[Iteration]
-E3 --> E4[Optimization]
-```
-
-</details>
+### Diagrams from real projects
+- [How Hero EQ was decided](https://github.com/herominutes/hero-eq#how-i-decided-what-to-build): from a public-evidence study to a pre-registered test.
+- [How GoGoIdea checks its own evidence](https://github.com/herominutes/gogoidea#how-it-works): isolated reviewers, scripts that verify claims, and a chair who decides.
+- [The Herominutes architecture and recovery loop](https://github.com/herominutes/herominutes-app#architecture-high-level): app, API, database and AI specialists.
 
 ---
 
