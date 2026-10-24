@@ -50,7 +50,7 @@
 - **Honest scoping:** the README states what is live and what is demo data. I label prototypes as prototypes.
 
 ### Sage Intacct MCP: Claude connected to financial data
-[sage-intacct-mcp](https://github.com/herominutes/sage-intacct-mcp) is an MCP server that lets Claude run general ledger, payables, receivables and financial statement queries.
+[sage-intacct-mcp](https://github.com/herominutes/sage-intacct-mcp) is an MCP server that lets Claude run general ledger, payables, receivables and financial statement queries. **Written by Sumit**, and hosted on my account.
 
 ---
 

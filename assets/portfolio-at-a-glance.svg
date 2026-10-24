@@ -32,7 +32,7 @@
 <text x="346" y="288" font-size="15.5" fill="#60a5fa" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="346" dy="0">Sage Intacct MCP</tspan></text>
 <line x1="346" y1="298" x2="569" y2="298" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
 <text x="346" y="314" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="346" dy="0">MCP server that lets Claude</tspan><tspan x="346" dy="17">query general ledger, payables</tspan><tspan x="346" dy="17">and receivables.</tspan></text>
-<rect x="346" y="364" width="94" height="24" rx="12" fill="none" stroke="#60a5fa" stroke-width="1.5"/><text x="357" y="381" font-size="12.5" font-weight="700" fill="#60a5fa">MCP server</text>
+<rect x="346" y="364" width="166" height="24" rx="12" fill="none" stroke="#60a5fa" stroke-width="1.5"/><text x="357" y="381" font-size="12.5" font-weight="700" fill="#60a5fa">MCP server, by Sumit</text>
 <rect x="615" y="258" width="255" height="152" rx="12" fill="#111c33" stroke="#c4b5fd" stroke-width="2"/>
 <text x="631" y="288" font-size="15.5" fill="#c4b5fd" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="631" dy="0">AI Product Playbook</tspan></text>
 <line x1="631" y1="298" x2="854" y2="298" stroke="#c4b5fd" stroke-width="1" opacity="0.5"/>
