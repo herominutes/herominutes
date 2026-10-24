@@ -50,7 +50,7 @@ These are my own build projects; my work history is on [LinkedIn](https://www.li
 - **Approach:** a five-phase flow with a hard gate at 75/100, at least three direct customer quotes, a pre-mortem, forced ranking against the live roadmap, and a post-launch loop that feeds learnings back in.
 
 ### Herominutes: an AI-fitness training system that adapts to how you feel
-[Herominutes](https://github.com/herominutes/herominutes-app) is a native iOS app, in an invite-only TestFlight beta, for training that adapts to how you feel. It started in 2024 from my own injury, with interviews and discussions with users.
+[Herominutes](https://github.com/herominutes/hero-minutes) is a native iOS app, in an invite-only TestFlight beta, for training that adapts to how you feel. It started in 2024 from my own injury, with interviews and discussions with users.
 - **Problem:** most plans ignore how you slept, how sore you are, or whether you are coming back from a setback.
 - **Approach:** a short daily check-in that shapes each session, phases you move through on your own numbers, and a stop rule when something needs a professional.
 - **My role:** solo entrepreneur and AI builder.
@@ -94,7 +94,7 @@ G --> C
 ### Diagrams from real projects
 - [How Hero EQ was decided](https://github.com/herominutes/hero-eq#how-i-decided-what-to-build): from a public-evidence study to a pre-registered test.
 - [How GoGoIdea checks its own evidence](https://github.com/herominutes/gogoidea#how-it-works): isolated reviewers, scripts that verify claims, and a chair who decides.
-- [The Herominutes architecture and recovery loop](https://github.com/herominutes/herominutes-app#architecture-high-level): app, API, database and AI specialists.
+- [The Herominutes architecture and recovery loop](https://github.com/herominutes/hero-minutes#architecture-high-level): app, API, database and AI specialists.
 
 ---
 
