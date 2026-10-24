@@ -36,6 +36,7 @@ These are my own build projects; my work history is on [LinkedIn](https://www.li
 - **Problem:** decisions made out loud lose their reasoning, status updates take hours, and confidential work does not belong in a public chatbot.
 - **Approach:** an evidence study before building, a focus pass that cut 27 specialists to 12, and privacy claims limited to what the build can back.
 - **Status:** a prototype on internal builds with one user and no external testers yet. The case study says what was verified and what was not.
+- **My role:** solo entrepreneur and AI builder.
 
 ### GoGoIdea: decisions that have to show their evidence
 [GoGoIdea](https://github.com/herominutes/gogoidea) is a Claude Code plugin with one command, `/hero:gogoidea`, and two checkpoints: **what to build**, and **whether to ship**.
@@ -49,9 +50,10 @@ These are my own build projects; my work history is on [LinkedIn](https://www.li
 - **Approach:** a five-phase flow with a hard gate at 75/100, at least three direct customer quotes, a pre-mortem, forced ranking against the live roadmap, and a post-launch loop that feeds learnings back in.
 
 ### Herominutes: AI recovery guidance for athletes
-[Herominutes](https://github.com/herominutes/herominutes-app) is a mobile-first PWA for injury recovery and mobility, with daily pain check-ins that adapt the guidance.
+[Herominutes](https://github.com/herominutes/herominutes-app) is a native iOS app, in an invite-only TestFlight beta, for training that adapts to how you feel. It started in April 2025 from my own injury, with interviews and discussions with users.
 - **Problem:** recovery is scattered across notes and rehab sheets, with low adherence.
 - **Approach:** structured recovery workflows, adaptive AI guidance, and progress mechanics to keep people consistent.
+- **My role:** solo entrepreneur and AI builder.
 
 ### CurriculumOS: an AI audit of any curriculum
 [CurriculumOS](https://github.com/herominutes/curriculum-audit-engine) scores a curriculum against what students at a grade, place and year should know.
