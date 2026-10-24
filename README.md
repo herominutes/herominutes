@@ -1,6 +1,6 @@
 # Hi, I'm Jamil · Senior Product Manager and AI product builder
 
-**I decide what to build, prove it with working prototypes, and set the evaluation bar before launch.** I'm a hands-on product leader who ships AI products in public, with the evidence behind each decision on the page.
+**I decide what to build, prove it with working prototypes and full-stack SaaS products, and set the evaluation bar before launch.** I'm a hands-on product leader who ships AI products in public, with the evidence behind each decision on the page.
 
 **Open to remote roles, full-time or fractional:** Senior and Staff Product Manager, AI Product Manager, and fractional AI product leadership for early-stage teams.
 
