@@ -6,6 +6,12 @@
 
 [LinkedIn](https://www.linkedin.com/in/jambuilds) · Building under the name **Hero Minutes**
 
+### Start here (two minutes)
+
+| A product case study | A tool I built | My methodology |
+|---|---|---|
+| [**Hero EQ**](https://github.com/herominutes/hero-eq): a prototype iPhone copilot for product leaders, with the evidence, strategy and lessons | [**GoGoIdea**](https://github.com/herominutes/gogoidea): a Claude Code plugin for evidence-based go/no-go decisions | [**AI Product Builder Playbook**](https://herominutes.github.io/ai-product-builder-playbook/): 43 frameworks from strategy to AI evaluation |
+
 ---
 
 ## What I bring
