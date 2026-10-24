@@ -21,6 +21,14 @@
 
 ## Featured work
 
+<img src="assets/portfolio-at-a-glance.svg" width="100%" alt="Seven projects as cards with an honest status for each: Hero EQ prototype, GoGoIdea published, SpecAI web app, Herominutes MVP with private code, CurriculumOS prototype with partly demo data, Sage Intacct MCP server, and the AI Product Playbook.">
+
+### Hero EQ: a private AI copilot for product leaders
+[Hero EQ](https://github.com/herominutes/hero-eq) (formerly PocketPM) is an iPhone-first AI copilot for product leaders, documented as a case study.
+- **Problem:** decisions made out loud lose their reasoning, status updates take hours, and confidential work does not belong in a public chatbot.
+- **Approach:** an evidence study before building, a focus pass that cut 27 specialists to 12, and privacy claims limited to what the build can back.
+- **Status:** a prototype on internal builds with one user and no external testers yet. The case study says what was verified and what was not.
+
 ### GoGoIdea: decisions that have to show their evidence
 [GoGoIdea](https://github.com/herominutes/gogoidea) is a Claude Code plugin with one command, `/hero:gogoidea`, and two checkpoints: **what to build**, and **whether to ship**.
 - **Problem:** teams make both calls on instinct, and an average score can hide one critical flaw.

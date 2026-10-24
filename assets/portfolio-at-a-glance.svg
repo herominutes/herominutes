@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title id="t">Portfolio at a glance</title>
+<desc id="d">Seven projects with a one-line description and an honest status for each.</desc>
+<rect width="1200" height="470" rx="14" fill="#0f172a"/>
+<text x="600" y="40" text-anchor="middle" font-size="21" font-weight="700" fill="#f8fafc">Portfolio at a glance: what each project is and how far along it is</text>
+<rect x="45" y="84" width="255" height="152" rx="12" fill="#111c33" stroke="#fbbf24" stroke-width="2"/>
+<text x="61" y="114" font-size="15.5" fill="#fbbf24" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="61" dy="0">Hero EQ</tspan></text>
+<line x1="61" y1="124" x2="284" y2="124" stroke="#fbbf24" stroke-width="1" opacity="0.5"/>
+<text x="61" y="140" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="61" dy="0">Private, iPhone-first AI copilot</tspan><tspan x="61" dy="17">for product leaders, with a</tspan><tspan x="61" dy="17">published case study.</tspan></text>
+<rect x="61" y="190" width="209" height="24" rx="12" fill="none" stroke="#fbbf24" stroke-width="1.5"/><text x="72" y="207" font-size="12.5" font-weight="700" fill="#fbbf24">Prototype, internal builds</text>
+<rect x="330" y="84" width="255" height="152" rx="12" fill="#111c33" stroke="#4ade80" stroke-width="2"/>
+<text x="346" y="114" font-size="15.5" fill="#4ade80" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="346" dy="0">GoGoIdea</tspan></text>
+<line x1="346" y1="124" x2="569" y2="124" stroke="#4ade80" stroke-width="1" opacity="0.5"/>
+<text x="346" y="140" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="346" dy="0">Claude Code plugin with two</tspan><tspan x="346" dy="17">evidence-based go/no-go</tspan><tspan x="346" dy="17">checkpoints.</tspan></text>
+<rect x="346" y="190" width="122" height="24" rx="12" fill="none" stroke="#4ade80" stroke-width="1.5"/><text x="357" y="207" font-size="12.5" font-weight="700" fill="#4ade80">Published, MIT</text>
+<rect x="615" y="84" width="255" height="152" rx="12" fill="#111c33" stroke="#60a5fa" stroke-width="2"/>
+<text x="631" y="114" font-size="15.5" fill="#60a5fa" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="631" dy="0">SpecAI</tspan></text>
+<line x1="631" y1="124" x2="854" y2="124" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
+<text x="631" y="140" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="631" dy="0">PM agent on the Claude API that</tspan><tspan x="631" dy="17">scores a feature before it earns</tspan><tspan x="631" dy="17">engineering time.</tspan></text>
+<rect x="631" y="190" width="72" height="24" rx="12" fill="none" stroke="#60a5fa" stroke-width="1.5"/><text x="642" y="207" font-size="12.5" font-weight="700" fill="#60a5fa">Web app</text>
+<rect x="900" y="84" width="255" height="152" rx="12" fill="#111c33" stroke="#fbbf24" stroke-width="2"/>
+<text x="916" y="114" font-size="15.5" fill="#fbbf24" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="916" dy="0">Herominutes</tspan></text>
+<line x1="916" y1="124" x2="1139" y2="124" stroke="#fbbf24" stroke-width="1" opacity="0.5"/>
+<text x="916" y="140" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="916" dy="0">Mobile-first PWA for injury</tspan><tspan x="916" dy="17">recovery and mobility, with</tspan><tspan x="916" dy="17">adaptive guidance.</tspan></text>
+<rect x="916" y="190" width="144" height="24" rx="12" fill="none" stroke="#fbbf24" stroke-width="1.5"/><text x="927" y="207" font-size="12.5" font-weight="700" fill="#fbbf24">MVP, code private</text>
+<rect x="45" y="258" width="255" height="152" rx="12" fill="#111c33" stroke="#fbbf24" stroke-width="2"/>
+<text x="61" y="288" font-size="15.5" fill="#fbbf24" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="61" dy="0">CurriculumOS</tspan></text>
+<line x1="61" y1="298" x2="284" y2="298" stroke="#fbbf24" stroke-width="1" opacity="0.5"/>
+<text x="61" y="314" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="61" dy="0">AI audit of a curriculum against</tspan><tspan x="61" dy="17">grade-level benchmarks.</tspan></text>
+<rect x="61" y="347" width="216" height="24" rx="12" fill="none" stroke="#fbbf24" stroke-width="1.5"/><text x="72" y="364" font-size="12.5" font-weight="700" fill="#fbbf24">Prototype, partly demo data</text>
+<rect x="330" y="258" width="255" height="152" rx="12" fill="#111c33" stroke="#60a5fa" stroke-width="2"/>
+<text x="346" y="288" font-size="15.5" fill="#60a5fa" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="346" dy="0">Sage Intacct MCP</tspan></text>
+<line x1="346" y1="298" x2="569" y2="298" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
+<text x="346" y="314" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="346" dy="0">MCP server that lets Claude</tspan><tspan x="346" dy="17">query general ledger, payables</tspan><tspan x="346" dy="17">and receivables.</tspan></text>
+<rect x="346" y="364" width="94" height="24" rx="12" fill="none" stroke="#60a5fa" stroke-width="1.5"/><text x="357" y="381" font-size="12.5" font-weight="700" fill="#60a5fa">MCP server</text>
+<rect x="615" y="258" width="255" height="152" rx="12" fill="#111c33" stroke="#c4b5fd" stroke-width="2"/>
+<text x="631" y="288" font-size="15.5" fill="#c4b5fd" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="631" dy="0">AI Product Playbook</tspan></text>
+<line x1="631" y1="298" x2="854" y2="298" stroke="#c4b5fd" stroke-width="1" opacity="0.5"/>
+<text x="631" y="314" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="631" dy="0">43 frameworks from strategy to</tspan><tspan x="631" dy="17">AI architecture and evaluation.</tspan></text>
+<rect x="631" y="347" width="151" height="24" rx="12" fill="none" stroke="#c4b5fd" stroke-width="1.5"/><text x="642" y="364" font-size="12.5" font-weight="700" fill="#c4b5fd">Reference playbook</text>
+<text x="600" y="440" text-anchor="middle" font-size="13" fill="#94a3b8">Amber means prototype or MVP and is labelled as such in each repo. Status is taken from each project's own README.</text>
+</svg>
